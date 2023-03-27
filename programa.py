@@ -4,6 +4,8 @@ import json
 import os 
 import platform #Modulo para hallar sistema op.
 
+#In this program i used wx.formbuilder to make the  the visual framework
+#This is my 1 commit in git hub hi !
 app = wx.App()
 
 class to_doframe(to_do):    
